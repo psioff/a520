@@ -11,4 +11,5 @@ apt install a520
 ## streenshots
 tbd
 # q&a
-Q: Which CPUs are supported by am520 fw?
+Q: Which CPUs are supported by a520 fw?
+A: Only ones on Am4 socket
