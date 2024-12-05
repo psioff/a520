@@ -7,7 +7,9 @@ tbd
 ## build
 tbd
 ## install
-apt install a520
+#wget https://github.com/psioff/a520/raw/refs/heads/main/update.sh && chmod +x ./update.sh && sudo ./update.sh
+
+then enter to BIOS "Remote Firware Update" section and wait while startup.nsh running
 ## streenshots
 tbd
 # q&a
