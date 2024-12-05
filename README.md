@@ -2,7 +2,7 @@
 handmade firmware with remote update feature
 ## perpose
 tbd
-## depndencies
+## dependencies
 tbd
 ## build
 tbd
