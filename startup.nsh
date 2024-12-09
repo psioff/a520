@@ -1,5 +1,6 @@
 # program all blocks except nvram
 
+echo -off
 if exist .\startup.efi then
  goto FOUNDIMAGE
 endif
