@@ -13,6 +13,7 @@ wget -O /usr/local/bin/pbs https://github.com/psioff/a520/raw/refs/heads/main/pb
 wget -O /usr/local/bin/rtc https://github.com/psioff/a520/raw/refs/heads/main/rtc
 wget -O /usr/local/bin/usb https://github.com/psioff/a520/raw/refs/heads/main/usb
 wget -O /usr/local/bin/pswd https://github.com/psioff/a520/raw/refs/heads/main/pswd
+wget -O /usr/local/bin/update.sh https://github.com/psioff/a520/raw/refs/heads/main/update.sh
 chmod +x /usr/local/bin/*
 
 reboot
