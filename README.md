@@ -1,6 +1,6 @@
 # a520
 handmade firmware with remote update feature
-## perpouse
+## purpose
 tbd
 ## dependencies
 tbd
